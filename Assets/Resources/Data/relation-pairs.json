@@ -1,0 +1,87 @@
+{
+    "pairs": [
+        {
+            "name": "pair1",
+            "relations": [
+                {
+                    "relation": "P3 > P1 = P2",
+                    "setting": {
+                        "x": 1,
+                        "y": -1,
+                        "z": 1
+                    }
+                },
+                {
+                    "relation": "P3 > P1 > P2",
+                    "setting": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "pair2",
+            "relations": [
+                {
+                    "relation": "P3 = P1 > P2",
+                    "setting": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    }
+                },
+                {
+                    "relation": "P1 = P3 > P2",
+                    "setting": {
+                        "x": -1,
+                        "y": 1,
+                        "z": -1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "pair3",
+            "relations": [
+                {
+                    "relation": "P2 = P1 > P3",
+                    "setting": {
+                        "x": -1,
+                        "y": -1,
+                        "z": -1
+                    }
+                },
+                {
+                    "relation": "P1 > P3 > P2",
+                    "setting": {
+                        "x": -1,
+                        "y": -1,
+                        "z": 1
+                    }
+                }
+            ]
+        },        {
+            "name": "pair4",
+            "relations": [
+                {
+                    "relation": "P2 > P3 > P1",
+                    "setting": {
+                        "x": -1,
+                        "y": 1,
+                        "z": -1
+                    }
+                },
+                {
+                    "relation": "P1 > P2 = P3",
+                    "setting": {
+                        "x": -1,
+                        "y": 1,
+                        "z": 1
+                    }
+                }
+            ]
+        }
+    ]
+}

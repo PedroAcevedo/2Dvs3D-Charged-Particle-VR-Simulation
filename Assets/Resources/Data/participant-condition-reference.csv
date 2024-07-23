@@ -1,0 +1,26 @@
+﻿participant,condition_2DDesktop: 1,condition_2,condition_2DVR: 3,condition_3DVR: 4,Tutorial 1,Tutorial 2
+1,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+2,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+3,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+4,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+5,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+6,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+7,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+8,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+9,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+10,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+11,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+12,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+13,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+14,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+15,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+16,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+17,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+18,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+19,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+20,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+21,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
+22,3DDesktop: 2,2DVR: 3,3DVR: 4,2DDesktop: 1,Desktop,VR
+23,2DVR: 3,2DDesktop: 1,3DDesktop: 2,3DVR: 4,VR,Desktop
+24,2DDesktop: 1,3DVR: 4,2DVR: 3,3DDesktop: 2,Desktop,VR
+25,3DVR: 4,3DDesktop: 2,2DDesktop: 1,2DVR: 3,VR,Desktop
